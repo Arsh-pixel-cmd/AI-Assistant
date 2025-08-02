@@ -1,7 +1,7 @@
 [project]
 name = "aiagent"
 version = "0.1.0"
-description = "Add your description here"
+description = "Terminal-based AI assistant using LangChain, LangGraph, and OpenAI API to handle calculations, conversions, summaries, time queries, jokes, and greetings via tool-based agents."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
